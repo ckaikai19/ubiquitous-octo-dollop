@@ -1,10 +1,10 @@
-# ubiquitous-octo-dollop
+# Regex Tutorial 
 
 Introductory paragraph (replace this with your text)
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+Regular expressions are patterns used to match character combinations in strings. In JavaScript, regular expressions are also objects. 
 
 ## Table of Contents
 
